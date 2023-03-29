@@ -1,3 +1,4 @@
+path: ultralytics/datasets/data
 train: /kaggle/input/newdataset/newDataset/images/Train
 val:  /kaggle/input/newdataset/newDataset/images/Validate
 test: /kaggle/input/newdataset/newDataset/images/Test
